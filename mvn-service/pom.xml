@@ -11,7 +11,7 @@
     <parent>
         <groupId>com.gude</groupId>
         <artifactId>mvn-parent</artifactId>
-        <version>1.0-SNAPSHOT</version>
+        <version>${parent.version}</version>
         <relativePath>../mvn-parent/</relativePath>
     </parent>
     <dependencies>
