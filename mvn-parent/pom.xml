@@ -24,7 +24,7 @@
         <log4j.version>1.2.17</log4j.version>
     </properties>
 
-
+    <!--声明子模块-->
     <modules>
         <module>../mvn-common</module>
         <module>../mvn-dao</module>
