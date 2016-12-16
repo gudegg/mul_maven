@@ -1,4 +1,5 @@
 language: java
 jdk:
   - oraclejdk8
-before_script:cd mvn-parent
+before_script:
+  - cd mvn-parent
