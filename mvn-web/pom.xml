@@ -13,7 +13,7 @@
         <groupId>com.gude</groupId>
         <artifactId>mvn-parent</artifactId>
         <version>${parent.version}</version>
-        <relativePath>../mvn-parent/</relativePath>
+        <relativePath>../mvn-parent/pom.xml</relativePath>
     </parent>
     
     <dependencies>
